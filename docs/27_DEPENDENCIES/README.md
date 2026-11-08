@@ -1,0 +1,3 @@
+# 27_DEPENDENCIES
+
+Documentation for L_ROS2CORE - 27_DEPENDENCIES
